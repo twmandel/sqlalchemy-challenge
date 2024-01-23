@@ -1,1 +1,1 @@
-This was definitely one of the toughest challenges for me. I spent a lot of time researching object oriented programming, and will need to continue to do so. I am happy with the jupyter notebook file in this challenge, but I will need to circle back to finish the app.
+This was definitely one of the toughest challenges for me. I spent a lot of time researching object oriented programming, and will need to continue to do so. The app.py section was a particular struggle for me, but I was able to conquer it and I am happy with the results.
